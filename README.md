@@ -1,2 +1,2 @@
 # vue-components
-this is a cue Components rep
+this is a amap vueComps
